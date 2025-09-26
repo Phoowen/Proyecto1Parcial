@@ -21,7 +21,7 @@ Estructura del proyecto /Practicas /practica /assets /images OnePiece1.png OnePi
 
 Cómo ejecutar el proyecto
 
-Clona el repositorio:
+Clona el repositorio: https://github.com/Phoowen/Proyecto1Parcial.git
 
 git clone Navega al directorio del proyecto:
 
